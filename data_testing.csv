@@ -1,0 +1,4 @@
+title;description;scenario
+halo testing ;coba tes 12345;valid
+;tes title kosong;invalid 
+INI halo AAAAABBBBBB CCCCCDDDDD EEEFFFF12345678910 TESTING 102030405060708090100 !!!@$%^&*((())_+<>123>>..;tes tes halooooooooooooooo AAAAA;edge
