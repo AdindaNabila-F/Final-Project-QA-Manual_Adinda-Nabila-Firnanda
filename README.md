@@ -23,9 +23,11 @@ Final Project_Adinda Nabila Firnanda
 
 4. Kemudian jalankan:
 newman run "collections/Final_Project_AfterOffice_AdindaNabilaF.postman_collection.json" -e "environments/labs.hendri.postman_environment.json" -d "data/data_testing.csv"
+
 Newman akan menjalankan seluruh request dan menampilkan hasil testing di terminal.
 
 5. Untuk membuat report hasil testing dari Newman:
 Instal Reporter: npm install -g newman-reporter-htmlextra
 Jalankan dan Generate Laporan: newman run my_collection.json -r htmlextra
+
 File hasilnya nanti akan terdownload otomatis dan kita bisa melihat laporan hasil testing kita. 
